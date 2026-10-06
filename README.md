@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/thenukiperera">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B+I'm+Thenuki+Perera;BSc+Computer+Science+Undergraduate;Aspiring+UI%2FUX+Designer;Figma+%7C+Web+%7C+Python+%7C+C%23" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B+I'm+Thenuki+Perera;BSc+Computer+Science+Undergraduate;Aspiring+UI%2FUX+Designer;Figma+%7C+Web+%7C+Python+%7C+C%23" alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,14 +59,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thenukiperera&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenukiperera&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenukiperera&theme=tokyo-night&hide_border=true" alt="activity graph" />
 </p>
 
 ### Connect
